@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="foto.jpg" width="120" style="border-radius: 50%;"/>
+</p>
+
 # Hi there, I'm Andika 👋
 
 **`Ida Bagus Made Andika Dwipramana`** — ML Engineer & AI enthusiast building things that (hopefully) work in production.
