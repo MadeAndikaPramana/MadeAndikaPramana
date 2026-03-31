@@ -3,7 +3,7 @@
 **`Ida Bagus Made Andika Dwipramana`** — ML Engineer & AI enthusiast building things that (hopefully) work in production.
 
 <p align="center">
-  <img src="foto.jpg" width="120" style="border-radius: 75%;"/>
+  <img src="foto.jpg" width="200" style="border-radius: 50%;"/>
 </p>
 
 
