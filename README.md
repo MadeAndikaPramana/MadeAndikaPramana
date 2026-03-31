@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-- 🎓 Currently working on **CaBe (Cari Beasiswa)** — an AI-powered scholarship search app for Indonesian high school students
-- 🤖 Passionate about making ML models that are actually useful, not just accurate on paper
-- 🌱 Always learning: from model training to API deployment
-- 📍 Based in Indonesia
+- Currently working on **CaBe (Cari Beasiswa)** — an AI-powered scholarship search app for Indonesian high school students
+- Passionate about making ML models that are actually useful, not just accurate on paper
+- Always learning: from model training to API deployment
+- Based in Bali, Indonesia
 
 ---
 
@@ -41,10 +41,10 @@
 
 ---
 
-## 🤙 Fun Fact
+## Fun Fact
 
 > I occasionally sleepwalk — open my laptop, eat, do random things — and only realize mid-action.  
-> My brain ships features before my consciousness reviews the PR. 🧠⚡
+> My brain ships features before my consciousness reviews the PR ⚡
 
 ---
 
